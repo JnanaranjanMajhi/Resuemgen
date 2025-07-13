@@ -32,15 +32,6 @@ ResumeGen is a **modern, customizable, and responsive web app** built to help us
 | 🌐 Hosting   | Vercel                 |
 | 📦 Others     | jsPDF, html2canvas (for PDF export)    |
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your UI below in `/assets/demo.png` or similar)*
-
-![ResumeGen UI Preview](./assets/images/demo.png)
-
----
 
 ## 🚀 Getting Started
 
@@ -84,30 +75,15 @@ Resuemgen/
 ```
 
 ---
+## 🧾 Deployment on Vercel
 
-## 🧾 Deployment on GitHub Pages
+### Steps
 
-### 1. Install `gh-pages`
-
-```bash
-npm install --save-dev gh-pages
-```
-
-### 2. Update `package.json`
-
-```json
-"homepage": "https://jnanaranjanmajhi.github.io/Resuemgen",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-```
-
-### 3. Deploy
-
-```bash
-npm run deploy
-```
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Import your GitHub repo
+4. Set build command as `npm run build` and output directory as `build/`
+5. Deploy with one click!
 
 ---
 
@@ -133,8 +109,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ## 📬 Contact
 
 - **GitHub**: [@JnanaranjanMajhi](https://github.com/JnanaranjanMajhi)
-- **Email**: [jnanaranjan.official@gmail.com](mailto:jnanaranjan82@gmail.com)
-- **Portfolio**: [https://jnanaranjanmajhi.github.io/Portfolio](https://jnanaranjanmajhi.github.io/Portfolio)
+- **Email**: [Gmail](mailto:jnanaranjan82@gmail.com)
+- **Portfolio**: [Portfolio](https://jnanaranjanmajhi.github.io/Portfolio)
 ---
 
 > 💡 Made with passion by **Jnanaranjan Majhi**
