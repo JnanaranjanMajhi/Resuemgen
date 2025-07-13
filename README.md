@@ -1,16 +1,12 @@
 # 📄 ResumeGen - AI-Powered Resume Builder
 
-[![GitHub license](https://img.shields.io/github/license/JnanaranjanMajhi/Resuemgen)](https://github.com/JnanaranjanMajhi/Resuemgen/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/JnanaranjanMajhi/Resuemgen?style=social)](https://github.com/JnanaranjanMajhi/Resuemgen/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/JnanaranjanMajhi/Resuemgen?style=social)](https://github.com/JnanaranjanMajhi/Resuemgen/network)
-
 ResumeGen is a **modern, customizable, and responsive web app** built to help users easily create beautiful and professional resumes. Whether you're a student or a working professional, ResumeGen gives you the power to quickly craft and export your CV in **PDF format** with **live preview** and **template customization**.
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try ResumeGen](https://jnanaranjanmajhi.github.io/Resuemgen/) *(If deployed on GitHub Pages)*
+🔗 [Click here to try ResumeGen](https://resuemgen.vercel.app/)
 
 ---
 
@@ -32,9 +28,8 @@ ResumeGen is a **modern, customizable, and responsive web app** built to help us
 | Category     | Tools / Frameworks                     |
 |--------------|----------------------------------------|
 | 💻 Frontend   | React.js, Chakra UI, React Icons       |
-| ⚙️ Backend    | Node.js, Express.js *(optional)*       |
 | 🛠 Build Tool | Vite / Create React App (CRA)          |
-| 🌐 Hosting   | GitHub Pages or Vercel                 |
+| 🌐 Hosting   | Vercel                 |
 | 📦 Others     | jsPDF, html2canvas (for PDF export)    |
 
 ---
@@ -138,9 +133,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ## 📬 Contact
 
 - **GitHub**: [@JnanaranjanMajhi](https://github.com/JnanaranjanMajhi)
-- **Email**: [jnanaranjan.official@gmail.com](mailto:jnanaranjan.official@gmail.com)
+- **Email**: [jnanaranjan.official@gmail.com](mailto:jnanaranjan82@gmail.com)
 - **Portfolio**: [https://jnanaranjanmajhi.github.io/Portfolio](https://jnanaranjanmajhi.github.io/Portfolio)
-
 ---
 
 > 💡 Made with passion by **Jnanaranjan Majhi**
